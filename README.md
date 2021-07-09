@@ -30,6 +30,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 - [Executioner](#executioner)
 - [Arsonist](#arsonist)
 - [Phantom](#phantom)
+- [Guardian Angel](#guardian-angel)
 
 **Impostor Roles**
 - [Janitor](#janitor)
@@ -577,6 +578,18 @@ They become half-invisible when they die and has to complete all their tasks wit
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
 | Phantom | The percentage probability of the Phantom appearing | Percentage | 0% |
+
+-----------------------
+## Guardian Angel
+### **Team: Neutral**
+
+The Guardian Angel is a role made to protect their target and wins with them or loses with them.\
+They have to keep their target alive at all costs.
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Guardian Angel | Chance of Guardian Angel Spawning | Percentage | 0% |
+| Guardian Angel becomes on Target Dead | What the Guardian Angel becomes when their target dies | Crewmate / Jester | Crewmate |
 
 -----------------------
 # Impostor Roles
